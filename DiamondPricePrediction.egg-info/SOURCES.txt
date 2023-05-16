@@ -6,6 +6,7 @@ DiamondPricePrediction.egg-info/dependency_links.txt
 DiamondPricePrediction.egg-info/requires.txt
 DiamondPricePrediction.egg-info/top_level.txt
 src/__init__.py
+src/__main__.py
 src/exception.py
 src/logger.py
 src/utils.py
